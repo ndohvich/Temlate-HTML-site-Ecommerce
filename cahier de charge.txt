@@ -1,0 +1,9 @@
+SALUT A TOI 
+
+IL M'A ETE DEMANDE PAR UN CLIENT DE LUI CONCEVOIR UN TEMPLATE DE VENTE DE VETEMENTS EN LIGNE
+
+IL VOULAIT QUELQUE CHOSE DE SIMPLE, CHIC ET SOUS FORME DE PRESENTOIRE. 
+
+J'ESPERE QUE VOUS APPRECIEREZ LE TRAVAIL. 
+
+PS : L'ouverture du site necessite une connexion internet pour le telechargement des librairies en ligne tel que boostrap afin d'avoir la derniere version. 
